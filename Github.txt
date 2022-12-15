@@ -1,4 +1,0 @@
-Server entry
-Server entry 2
-Local Entry 3
-Local Entry 4
